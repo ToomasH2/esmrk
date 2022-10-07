@@ -1,7 +1,70 @@
-.meeldetuletus {
-  outline: solid black 3px;
+.modasl {
+  width: 20px;
 }
 
-.lisaMeeldetuletus {
-  outline: solid black 3px;
+.konteineris {
+  width: 90vw;
+  max-width: 900px;
+  min-height: 100vh;
+  display: flex;
+  background-color: antiquewhite;
+  position: sticky;
+}
+.emailreg {
+  width: 250px;
+}
+.footer {
+  bottom: 0;
+  width: 100%;
+}
+
+.meeldetuletusteKonteineris {
+  flex: 50;
+  flex-grow: 3;
+}
+
+.s {
+  flex: 50;
+  flex-grow: 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.strike {
+  text-decoration: "line-through";
+}
+
+.lisa {
+  width: 250px;
+  text-align: center;
+  margin: 10px;
+  height: 200px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: aliceblue;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  border-radius: 8px;
+}
+
+.nupp {
+  bottom: 2px;
+}
+
+.prygi {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.meeldetuletuseKonteiner {
+  margin: 12px;
+  padding: 1rem;
+  background-color: aliceblue;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+  border-radius: 8px;
+}
+
+.piir {
+  border-right: 3px solid rgb(24, 23, 23);
 }

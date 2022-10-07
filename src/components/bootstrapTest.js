@@ -1,13 +1,6 @@
 import React from "react";
-import DateCountdown from "react-date-countdown-timer";
+import { Popup } from "../elements/popup";
 
 export default function BootstrapTest() {
-  return (
-    <div>
-      <DateCountdown
-        dateTo="January 01, 2023 00:00:00 GMT+03:00"
-        callback={() => alert("Hello")}
-      />
-    </div>
-  );
+  return <div className=" justify-content-center mt-1"></div>;
 }

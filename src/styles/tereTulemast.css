@@ -1,0 +1,51 @@
+.konteiner {
+  width: 350px;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+}
+
+.pealkiri {
+  text-align: center;
+}
+.emailReg {
+  width: 200px;
+}
+.navi {
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 1px;
+}
+.loginkonteiner {
+  justify-content: center;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  background-color: #fcdfa6;
+  height: 100vh;
+  width: 75%;
+  min-width: 500px;
+  flex-grow: 1;
+}
+
+.navbar {
+  width: 100vw;
+  position: relative;
+  top: 0;
+  padding-bottom: 0;
+}
+
+.logiSisse {
+  width: 350px;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border-radius: 8px;
+  background-color: white;
+  box-shadow: rgb(0 0 0 / 16%) 1px 1px 10px;
+}
