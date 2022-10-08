@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/esmrk/static/css/main.05397920.css",
+    "main.js": "/esmrk/static/js/main.e599da73.js",
+    "index.html": "/esmrk/index.html",
+    "main.05397920.css.map": "/esmrk/static/css/main.05397920.css.map",
+    "main.e599da73.js.map": "/esmrk/static/js/main.e599da73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05397920.css",
+    "static/js/main.e599da73.js"
+  ]
+}
