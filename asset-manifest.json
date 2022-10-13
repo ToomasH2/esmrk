@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/esmrk/static/css/main.c8b51fcd.css",
-    "main.js": "/esmrk/static/js/main.a57ebe71.js",
+    "main.css": "/esmrk/static/css/main.18ddfaf4.css",
+    "main.js": "/esmrk/static/js/main.819901c2.js",
+    "static/media/sorm.gif": "/esmrk/static/media/sorm.f2ce1ef6f68c399e3f17.gif",
     "index.html": "/esmrk/index.html",
-    "main.c8b51fcd.css.map": "/esmrk/static/css/main.c8b51fcd.css.map",
-    "main.a57ebe71.js.map": "/esmrk/static/js/main.a57ebe71.js.map"
+    "main.18ddfaf4.css.map": "/esmrk/static/css/main.18ddfaf4.css.map",
+    "main.819901c2.js.map": "/esmrk/static/js/main.819901c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8b51fcd.css",
-    "static/js/main.a57ebe71.js"
+    "static/css/main.18ddfaf4.css",
+    "static/js/main.819901c2.js"
   ]
 }
