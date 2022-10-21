@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/www.xn--eesmrk-eua.ee/static/css/main.95cc6e9a.css",
-    "main.js": "/www.xn--eesmrk-eua.ee/static/js/main.1ab96230.js",
-    "index.html": "/www.xn--eesmrk-eua.ee/index.html",
-    "main.95cc6e9a.css.map": "/www.xn--eesmrk-eua.ee/static/css/main.95cc6e9a.css.map",
-    "main.1ab96230.js.map": "/www.xn--eesmrk-eua.ee/static/js/main.1ab96230.js.map"
+    "main.css": "/static/css/main.95cc6e9a.css",
+    "main.js": "/static/js/main.202431f0.js",
+    "index.html": "/index.html",
+    "main.95cc6e9a.css.map": "/static/css/main.95cc6e9a.css.map",
+    "main.202431f0.js.map": "/static/js/main.202431f0.js.map"
   },
   "entrypoints": [
     "static/css/main.95cc6e9a.css",
-    "static/js/main.1ab96230.js"
+    "static/js/main.202431f0.js"
   ]
 }
